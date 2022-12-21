@@ -60,6 +60,9 @@ public class Main {
 
     }
 
+    /**
+     *
+     */
     private static void opciones(){
         System.out.println("1. Insertar");
         System.out.println("2. Eliminar");
